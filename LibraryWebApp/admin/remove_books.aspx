@@ -1,0 +1,1 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="remove_books.aspx.cs" Inherits="LibraryWebApp.admin.remove_books" %>
